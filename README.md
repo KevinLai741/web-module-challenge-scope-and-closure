@@ -31,7 +31,7 @@ Using VSCode and Command Line:
 
 
 1. Fork the repo
-2. Go into canvas and connect your reop to codegrade
+2. Go into canvas and connect your re-op to codegrade
 3. Clone your forked version of the repo
 4. DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today
 5. cd into your repo
